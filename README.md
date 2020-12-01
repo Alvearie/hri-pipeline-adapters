@@ -11,6 +11,12 @@ The main github repository for the nifi flow examples is the health-patterns rep
 
 Sample clinical ingestion flow:  [https://github.com/Alvearie/health-patterns/tree/main/clinical-ingestion](https://github.com/Alvearie/health-patterns/tree/main/clinical-ingestion)
 
+### Contributing
+For contributing flows, view the health-patterns contributing link for details:
+
+[Contributing flows](https://github.com/Alvearie/health-patterns/blob/main/CONTRIBUTING.md)
+
+### Additional sample flows
 In addition, there are other sample flows provided here to assist in working with a number of IBM or open source flows.
 
 ### Handle FHIR Content Type
