@@ -5,7 +5,9 @@ The layout has directories that highlight each flow with details within the dire
 
 The main github repository for the nifi flow examples is the health-patterns repository in the Alvearie Organization
 
-health-patterns:  [https://github.com/Alvearie/health-patterns/tree/main/clinical-ingestion](https://github.com/Alvearie/health-patterns/tree/main/clinical-ingestion)
+[Health Patterns Alvearie](https://github.com/Alvearie/health-patterns)
+
+Sample clinical ingestion flow:  [https://github.com/Alvearie/health-patterns/tree/main/clinical-ingestion](https://github.com/Alvearie/health-patterns/tree/main/clinical-ingestion)
 
 In addition, there are other sample flows provided here to assist in working with a number of IBM or open source flows.
 
