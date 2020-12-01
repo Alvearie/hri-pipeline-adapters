@@ -19,7 +19,7 @@ For contributing flows, view the health-patterns contributing link for details:
 ### Additional sample flows
 In addition, there are other sample flows provided here to assist in working with a number of IBM or open source flows.
 
-### Handle FHIR Content Type
+#### Handle FHIR Content Type
 The shows the workflow in handling the FHIR+JSON content types that might be returned when interacting with a FHIR server.  This allows the flows and provenance to be viewed in the NIFI canvas.
 
 Main flow:  [https://github.com/Alvearie/hri-pipeline-adapters/tree/master/Handle FHIR Content Type](https://github.com/Alvearie/hri-pipeline-adapters/tree/master/Handle%20FHIR%20Content%20Type)
