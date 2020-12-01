@@ -1,7 +1,9 @@
-# hri-pipeline-adapters
+# HRI Pipeline Adapters
 Provides details and links to NiFi Flows that utilize the IBM Watson Health, FHIR server and Health Record Ingestion service.
 
-The layout has directories that highlight each flow with details within the directory on the usage, flow and additional information for each of the sample flows.
+The layout has directories that highlight each flow with details within the directory on the usage, flow and additional information for each of the sample flows.  
+
+There is also a link below to the health-patterns repository that includes some sample flows that read in kafka topics containing FHIR resources and writes those to a FHIR server.  This repository will be the main location for NIFI flows in addition to some of the samples highlighted below.
 
 The main github repository for the nifi flow examples is the health-patterns repository in the Alvearie Organization
 
